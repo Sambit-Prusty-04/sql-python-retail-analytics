@@ -1,0 +1,1 @@
+An end-to-end data pipeline that extracts retail order data via Kaggle API, cleans and transforms data using Python (Pandas), loads it into MS SQL Server, and executes analytical SQL queries to answer core business questions.
